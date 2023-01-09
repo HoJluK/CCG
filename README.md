@@ -1,1 +1,1 @@
-# CCG
+# My first collectible card game
